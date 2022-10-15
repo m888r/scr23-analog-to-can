@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "scr23-sens-to-can-main")(type "KiCad")(uri "${KIPRJMOD}/scr23-sens-to-can-main.pretty")(options "")(descr ""))
+  (lib (name "STM32G431CBT6")(type "KiCad")(uri "${KIPRJMOD}/ul_STM32G431CBT6/footprints.pretty")(options "")(descr ""))
+)

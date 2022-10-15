@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ul_STM32G431CBT6")(type "Legacy")(uri "${KIPRJMOD}/ul_STM32G431CBT6/2022-10-14_04-17-43.lib")(options "")(descr ""))
+  (lib (name "scr23-sens-to-can-main")(type "KiCad")(uri "${KIPRJMOD}/scr23-sens-to-can-main.kicad_sym")(options "")(descr ""))
+)
