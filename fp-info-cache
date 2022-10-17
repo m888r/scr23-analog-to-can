@@ -1,4 +1,4 @@
-20522093640229536
+20525425609927874
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86303,9 +86303,23 @@ varistor
 2
 2
 scr23-sens-to-can-main
+AP7370-33Y-13
+
+
+0
+3
+3
+scr23-sens-to-can-main
 ATM1312PABM01
 ATM13-12PA-BM01-1
 Connector
 0
 14
 14
+scr23-sens-to-can-main
+TPS7A2050PDBVR
+
+
+0
+5
+5
