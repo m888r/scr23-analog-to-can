@@ -1564,7 +1564,7 @@
     (effects (font (size 2.54 2.54)) (justify right bottom))
     (uuid 2ab58585-5f58-4741-ad4e-55799ad439cc)
   )
-  (text "Decoupling Capacitors" (at 255.27 175.26 180)
+  (text "Filtering/Decoupling\n" (at 250.825 174.625 180)
     (effects (font (size 2.54 2.54)) (justify right bottom))
     (uuid 3060960b-d32f-4263-900b-812f2f0466f2)
   )
