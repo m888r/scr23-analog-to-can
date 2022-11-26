@@ -4168,10 +4168,10 @@
     (uuid 64d56d94-2bd1-45bd-8c62-6e7a6aff5745)
     (property "Reference" "L?" (id 0) (at 175.895 64.77 90))
     (property "Value" "4.7uH" (id 1) (at 175.895 67.31 90))
-    (property "Footprint" "" (id 2) (at 175.895 70.485 0)
+    (property "Footprint" "Inductor_SMD:L_Bourns-SRN4018" (id 2) (at 175.895 70.485 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 175.895 70.485 0)
+    (property "Datasheet" "https://www.mouser.com/datasheet/2/54/srn4018-1391320.pdf" (id 3) (at 175.895 70.485 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e17a05fb-27a1-4a07-a33f-d63994f32112))
@@ -5898,7 +5898,7 @@
       (reference "J1") (unit 1) (value "ATM13-12PA-BM01") (footprint "scr23-sens-to-can-main:ATM1312PABM01")
     )
     (path "/64d56d94-2bd1-45bd-8c62-6e7a6aff5745"
-      (reference "L?") (unit 1) (value "4.7uH") (footprint "")
+      (reference "L?") (unit 1) (value "4.7uH") (footprint "Inductor_SMD:L_Bourns-SRN4018")
     )
     (path "/26448f24-3374-419d-a536-be915a2394ea"
       (reference "R1") (unit 1) (value "1370") (footprint "")
