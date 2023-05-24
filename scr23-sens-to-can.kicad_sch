@@ -7578,6 +7578,23 @@
     )
   )
 
+  (sheet (at 172.085 220.345) (size 24.765 22.86) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a8dca7ff-e971-4605-965d-4f74c3dd69be)
+    (property "Sheetname" "ADC" (at 172.085 219.6334 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ADC.kicad_sch" (at 172.085 243.7896 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "scr23-sens-to-can"
+        (path "/9d4a62b8-9a16-4c8d-8b16-7072bfb3ee3d" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
