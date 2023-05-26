@@ -6,4 +6,5 @@
   (lib (name "JS102011SAQN")(type "KiCad")(uri "${KIPRJMOD}/JS102011SAQN/JS102011SAQN.kicad_sym")(options "")(descr ""))
   (lib (name "6473711-1")(type "KiCad")(uri "${KIPRJMOD}/ul_6473711-1/2023-05-24_15-21-21.kicad_sym")(options "")(descr ""))
   (lib (name "ADS1256IDBRG4")(type "KiCad")(uri "${KIPRJMOD}/LIB_ADS1256IDBRG4/ADS1256IDBRG4.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-76.8-18-5PXEN-TR")(type "Legacy")(uri "${KIPRJMOD}/ECS_76_8_18_5PXEN_TR/ECS-76.8-18-5PXEN-TR.lib")(options "")(descr ""))
 )

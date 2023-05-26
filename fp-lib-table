@@ -5,4 +5,5 @@
   (lib (name "PCM12SMTR")(type "KiCad")(uri "${KIPRJMOD}/PCM12SMTR")(options "")(descr ""))
   (lib (name "JS102011SAQN")(type "KiCad")(uri "${KIPRJMOD}/JS102011SAQN")(options "")(descr ""))
   (lib (name "CON26_2X13_SUPERSEAL_TYC")(type "KiCad")(uri "${KIPRJMOD}/ul_6473711-1/footprints.pretty")(options "")(descr ""))
+  (lib (name "ECS_76_8_18_5PXEN_TR")(type "KiCad")(uri "${KIPRJMOD}/ECS_76_8_18_5PXEN_TR")(options "")(descr ""))
 )
