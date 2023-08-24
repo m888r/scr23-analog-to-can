@@ -10,6 +10,8 @@
     (rev "1")
     (company "USC Racing")
     (comment 1 "TODO: make mini-datasheet of which connector pins can be SPI, I2C, etc.")
+    (comment 2 "TODO: Check crystal on ADC")
+    (comment 3 "TODO: Switch power distrib to be one buck two LDO")
   )
 
   (lib_symbols
