@@ -8,4 +8,5 @@
   (lib (name "ADS1256IDBRG4")(type "KiCad")(uri "${KIPRJMOD}/LIB_ADS1256IDBRG4/ADS1256IDBRG4.kicad_sym")(options "")(descr ""))
   (lib (name "ECS-76.8-18-5PXEN-TR")(type "Legacy")(uri "${KIPRJMOD}/ECS_76_8_18_5PXEN_TR/ECS-76.8-18-5PXEN-TR.lib")(options "")(descr ""))
   (lib (name "6437288-2")(type "KiCad")(uri "${KIPRJMOD}/6437288-2/6437288-2.kicad_sym")(options "")(descr ""))
+  (lib (name "ADS8168IRHBT")(type "KiCad")(uri "${KIPRJMOD}/ADS8168IRHBT/KiCADv6/2024-01-25_23-40-43.kicad_sym")(options "")(descr ""))
 )
